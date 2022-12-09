@@ -1,4 +1,4 @@
-## METAMASK-AUTOMATION
+## VERCEL-AUTOMATION
 
 ### Install Dependencies
 
