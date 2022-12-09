@@ -5,11 +5,9 @@
 ```bash
 npm install
 ```
-### Test
+### Configuring the environment 
 
-```bash
-npm run test
-```
+1. Set 'browser_path' and 'user_data_path' in config file.
 
 ### Run
 
@@ -17,6 +15,3 @@ npm run test
 npm run start
 ```
 
-### Configuring the environment 
-
-1. Update parameters in config.json file.
