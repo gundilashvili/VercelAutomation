@@ -1,0 +1,10 @@
+{ 
+    "url": "https://vercel.com/book-room-online-project/hotel-next/settings/domains",  
+    "browser": {
+        "headless": false,
+        "defaultViewport": null,
+        "browser_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "user_data_path": "C:\\Users\\GU\\AppData\\Local\\Google\\Chrome\\User Data" 
+    } 
+     
+}
